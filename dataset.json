@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Austin-Round Rock-San Marcos, TX Metro Area, US",
+  "export_job_id": "bffc36aa-7954-4a26-bac5-c5fc4a0a9c5a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 620735,
+  "location_name": "Austin-Round Rock-San Marcos, TX",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-austin-round-rock-san-marcos-tx-metro-ar-sample-620735",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/620735/beamstation_620735_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
+  "sample_pct": 0.83,
+  "sample_records": 10,
+  "sample_sha256": "736d12d94eb714bb381b08663d7d851265640e31b58d0619ba90f43d60219726",
+  "sample_size_bytes": 58671,
+  "total_records": 1199,
+  "updated_at": "2026-04-01T01:03:55.599424+00:00"
+}
