@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bffc36aa-7954-4a26-bac5-c5fc4a0a9c5a",
+  "export_job_id": "5f8194c0-523d-4ddb-9eb5-163a09fe4d49",
   "id_short": 620735,
-  "published_at": "2026-04-14T07:34:03Z",
+  "published_at": "2026-04-18T19:33:01Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-austin-round-rock-san-marcos-tx-metro-ar-sample-620735",
   "sample_asset_name": "beamstation_620735_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/620735/beamstation_620735_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "736d12d94eb714bb381b08663d7d851265640e31b58d0619ba90f43d60219726",
-  "sample_size_bytes": 58671,
-  "total_records": 1199
+  "sample_records": 160,
+  "sample_sha256": "c7e5c2287acf16202f5a4bd67facfc6c260a571021f23f840d9dda4770f2bbc0",
+  "sample_size_bytes": 648905,
+  "total_records": 1603
 }
