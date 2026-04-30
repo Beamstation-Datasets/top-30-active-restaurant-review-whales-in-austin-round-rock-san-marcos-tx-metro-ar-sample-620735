@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Austin-Round Rock-San Marcos, TX Metro Area, US
 
-> Free BeamStation sample export with 149 rows and masked direct-contact fields.
+> Free BeamStation sample export with 163 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `620735` |
 | Location | Austin-Round Rock-San Marcos, TX |
 | Category | Restaurants |
-| Full dataset size | 1,498 records |
-| Free sample size | 149 records (9.95%) |
-| Last export | 2026-04-22T08:07:59.933492+00:00 |
+| Full dataset size | 1,631 records |
+| Free sample size | 163 records (9.99%) |
+| Last export | 2026-04-29T09:49:36.849337+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-austin-round-rock-san-marcos-tx-metro-ar-sample-620735/releases/download/sample-latest/beamstation_620735_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
